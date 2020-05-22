@@ -1,2 +1,2 @@
 # TrafficlLight
-functional Traffic Light
+Virtual Traffic Light
